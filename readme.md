@@ -22,7 +22,8 @@ envolvidos.
 
 ### Principais Casos de Uso 
 
-(ProjetoIntegrador3\Demais_Imagens/UC001 - Cadastro Aluno-Professor.png)
+(ProjetoIntegrador3-SistemaOrientadoObj
+/UC001 - Cadastro Aluno-Professor.png)
 
 (ProjetoIntegrador3\Demais_Imagens/UC002 - ConsultarManter Aluno.png)
 
