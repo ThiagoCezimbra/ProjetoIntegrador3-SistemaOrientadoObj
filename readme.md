@@ -18,7 +18,7 @@ envolvidos.
 
 ### Diagrama de Caso de Uso 
 
-!(https://github.com/ThiagoCezimbra/ProjetoIntegrador3-SistemaOrientadoObj/blob/main/Diagrama%20Principais%20Casos%20de%20Uso.png)
+![Diagramadecasodeuso](https://github.com/ThiagoCezimbra/ProjetoIntegrador3-SistemaOrientadoObj/blob/main/Diagrama%20Principais%20Casos%20de%20Uso.png)
 
 ### Principais Casos de Uso 
 
@@ -35,7 +35,7 @@ envolvidos.
 
 ### Diagrama de Classes
 
-!(https://github.com/ThiagoCezimbra/ProjetoIntegrador3-SistemaOrientadoObj/blob/main/DIAGRAMA%20DE%20CLASSES.png)
+![Diagramadeclasses](https://github.com/ThiagoCezimbra/ProjetoIntegrador3-SistemaOrientadoObj/blob/main/DIAGRAMA%20DE%20CLASSES.png)
 
 ### Prototipagem Gráfica/Telas principais:
 
