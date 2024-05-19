@@ -1,6 +1,6 @@
 ## UniRegistra
 
-Repositório referente ao trabalho de Projeto Integrador III 3º Período SENAC III.
+Repositório referente ao trabalho de Projeto Integrador III 3º Período SENAC.
 
 
 ### 1. Descrição geral do sistema
