@@ -40,20 +40,28 @@ envolvidos.
 ### Prototipagem Gráfica/Telas principais:
 
 - Tela de boas vindas - Menu principal;
+  
 ![Teladeboasvindas](https://github.com/ThiagoCezimbra/ProjetoIntegrador3-SistemaOrientadoObj/blob/main/MENU%20INICIAL.png)
 - Tela de autenticação;
+  
 ![Teladeautenticacao](https://github.com/ThiagoCezimbra/ProjetoIntegrador3-SistemaOrientadoObj/blob/main/TELA%20AUTENTICACAO.png)
 - Tela menu cadastro e consulta pessoa física;
+  
 ![cadastro/consultpessoafisica](https://github.com/ThiagoCezimbra/ProjetoIntegrador3-SistemaOrientadoObj/blob/main/TELA%20MENU%20CADASTRO-CONSULTA%20PF.png)
 - Tela opção cadastrar Aluno (similar a cadastrar professor);
+  
 ![cadastraraluno](https://github.com/ThiagoCezimbra/ProjetoIntegrador3-SistemaOrientadoObj/blob/main/DADOS%20CADASTRO%20ALUNO.png)
 - Tela CPF já cadastrado;
+  
 ![cpfjacadastrado](https://github.com/ThiagoCezimbra/ProjetoIntegrador3-SistemaOrientadoObj/blob/main/CPF%20JA%20CADASTRADO.png)
 - Tela recuperar acesso;
+  
 ![recuperacaoacesso](https://github.com/ThiagoCezimbra/ProjetoIntegrador3-SistemaOrientadoObj/blob/main/RECUPERA%C3%87%C3%83O%20DE%20ACESSO.png)
 - Tela cadastro fornecedor;
+  
 ![cadastrofornecedor](https://github.com/ThiagoCezimbra/ProjetoIntegrador3-SistemaOrientadoObj/blob/main/DADOS%20CADASTRO%20FORNECEDOR.png)
 - Tela fornecedor cadastrado com sucesso;
+  
 ![forncedorcadastradocsucess](https://github.com/ThiagoCezimbra/ProjetoIntegrador3-SistemaOrientadoObj/blob/main/FORNECEDOR%20CADASTRADO%20COM%20SUCESSO.png)
 
 ### Link telas figma
