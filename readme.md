@@ -18,27 +18,24 @@ envolvidos.
 
 ### Diagrama de Caso de Uso 
 
-(ProjetoIntegrador3\Demais_Imagens/Diagrama Principais Casos de Uso.png)
+!(https://github.com/ThiagoCezimbra/ProjetoIntegrador3-SistemaOrientadoObj/blob/main/Diagrama%20Principais%20Casos%20de%20Uso.png)
 
 ### Principais Casos de Uso 
 
-(ProjetoIntegrador3-SistemaOrientadoObj
-/UC001 - Cadastro Aluno-Professor.png)
-
 ![CadastroAlunoProfessor](https://github.com/ThiagoCezimbra/ProjetoIntegrador3-SistemaOrientadoObj/blob/main/UC001%20-%20Cadastro%20Aluno-Professor.png)
 
+![CadastroFornecedor](https://github.com/ThiagoCezimbra/ProjetoIntegrador3-SistemaOrientadoObj/blob/main/UC003%20-%20Cadastro%20Fornecedor.png)
 
-(ProjetoIntegrador3\Demais_Imagens/UC003 - Cadastro Fornecedor.png)
+![Consultar/ManterFornecedor](https://github.com/ThiagoCezimbra/ProjetoIntegrador3-SistemaOrientadoObj/blob/main/UC004%20ConsultarMarter%20Fornecedor.png)
 
-(ProjetoIntegrador3\Demais_Imagens/UC004 - ConsultarMarter Fornecedor.png)
+![Autenticação no Sistema](https://github.com/ThiagoCezimbra/ProjetoIntegrador3-SistemaOrientadoObj/blob/main/UC005%20-%20Autenticacao%20no%20Sistema.png)
 
-(ProjetoIntegrador3\Demais_Imagens/UC005 - Autenticacao no Sistema.png)
+![Cadastro no Sistema](https://github.com/ThiagoCezimbra/ProjetoIntegrador3-SistemaOrientadoObj/blob/main/UC006%20-%20Cadastro%20no%20Sistema.png)
 
-(ProjetoIntegrador3\Demais_Imagens/UC006 - Cadastro no Sistema.png)
 
 ### Diagrama de Classes
 
-(ProjetoIntegrador3\Demais_Imagens/DIAGRAMA DE CLASSES.png)
+!(https://github.com/ThiagoCezimbra/ProjetoIntegrador3-SistemaOrientadoObj/blob/main/DIAGRAMA%20DE%20CLASSES.png)
 
 ### Prototipagem Gráfica/Telas principais:
 
