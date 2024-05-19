@@ -25,7 +25,8 @@ envolvidos.
 (ProjetoIntegrador3-SistemaOrientadoObj
 /UC001 - Cadastro Aluno-Professor.png)
 
-([ProjetoIntegrador3\Demais_Imagens/UC002 - ConsultarManter Aluno.png](https://github.com/ThiagoCezimbra/ProjetoIntegrador3-SistemaOrientadoObj/blob/main/UC001%20-%20Cadastro%20Aluno-Professor.png))
+![CadastroAlunoProfessor](https://github.com/ThiagoCezimbra/ProjetoIntegrador3-SistemaOrientadoObj/blob/main/UC001%20-%20Cadastro%20Aluno-Professor.png)
+
 
 (ProjetoIntegrador3\Demais_Imagens/UC003 - Cadastro Fornecedor.png)
 
