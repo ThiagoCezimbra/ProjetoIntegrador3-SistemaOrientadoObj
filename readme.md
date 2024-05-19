@@ -5,7 +5,7 @@ Repositório referente ao trabalho de Projeto Integrador III 3º Período SENAC 
 
 ### 1. Descrição geral do sistema
 
-	O UniRegistra é uma plataforma integrada desenvolvida para gerenciar de
+O UniRegistra é uma plataforma integrada desenvolvida para gerenciar de
 maneira eficiente e segura o cadastro de indivíduos e entidades associadas à
 universidade. Este sistema abrange tanto pessoas físicas, como alunos e
 professores, quanto pessoas jurídicas, como fornecedores. Com uma interface
