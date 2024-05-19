@@ -40,25 +40,21 @@ envolvidos.
 ### Prototipagem Gráfica/Telas principais:
 
 - Tela de boas vindas - Menu principal;
-(ProjetoIntegrador3\Interfaces_graficas_FIGMA/MENU INICIAL.png)
+![Teladeboasvindas](https://github.com/ThiagoCezimbra/ProjetoIntegrador3-SistemaOrientadoObj/blob/main/MENU%20INICIAL.png)
 - Tela de autenticação;
-(ProjetoIntegrador3\Interfaces_graficas_FIGMA/TELA AUTENTICACAO.png)
+![Teladeautenticacao](https://github.com/ThiagoCezimbra/ProjetoIntegrador3-SistemaOrientadoObj/blob/main/TELA%20AUTENTICACAO.png)
 - Tela menu cadastro e consulta pessoa física;
-(ProjetoIntegrador3\Interfaces_graficas_FIGMA/TELA MENU CADASTRO-CONSULTA PF.png)
+![cadastro/consultpessoafisica](https://github.com/ThiagoCezimbra/ProjetoIntegrador3-SistemaOrientadoObj/blob/main/TELA%20MENU%20CADASTRO-CONSULTA%20PF.png)
 - Tela opção cadastrar Aluno (similar a cadastrar professor);
-(ProjetoIntegrador3\Interfaces_graficas_FIGMA/DADOS CADASTRO ALUNO.png)
+![cadastraraluno](https://github.com/ThiagoCezimbra/ProjetoIntegrador3-SistemaOrientadoObj/blob/main/DADOS%20CADASTRO%20ALUNO.png)
 - Tela CPF já cadastrado;
-(ProjetoIntegrador3\Interfaces_graficas_FIGMA/CPF JA CADASTRADO.png)
+![cpfjacadastrado](https://github.com/ThiagoCezimbra/ProjetoIntegrador3-SistemaOrientadoObj/blob/main/CPF%20JA%20CADASTRADO.png)
 - Tela recuperar acesso;
-(ProjetoIntegrador3\Interfaces_graficas_FIGMA/RECUPERAÇÃO DE ACESSO.png)
+![recuperacaoacesso](https://github.com/ThiagoCezimbra/ProjetoIntegrador3-SistemaOrientadoObj/blob/main/RECUPERA%C3%87%C3%83O%20DE%20ACESSO.png)
 - Tela cadastro fornecedor;
-(ProjetoIntegrador3\Interfaces_graficas_FIGMA/DADOS CADASTRO FORNECEDOR.png)
+![cadastrofornecedor](https://github.com/ThiagoCezimbra/ProjetoIntegrador3-SistemaOrientadoObj/blob/main/DADOS%20CADASTRO%20FORNECEDOR.png)
 - Tela fornecedor cadastrado com sucesso;
-(ProjetoIntegrador3\Interfaces_graficas_FIGMA/FORNECEDOR CADASTRADO COM SUCESSO.png)
-- Tela opções consulta fornecedor;
-(ProjetoIntegrador3\Interfaces_graficas_FIGMA/CONSULTA FORNECEDOR.png)
-- Tela ID_Fornecedor não encontrado;
-(ProjetoIntegrador3\Interfaces_graficas_FIGMA/ID_FORNECEDOR NAO ENCONTRADO.png)
+![forncedorcadastradocsucess](https://github.com/ThiagoCezimbra/ProjetoIntegrador3-SistemaOrientadoObj/blob/main/FORNECEDOR%20CADASTRADO%20COM%20SUCESSO.png)
 
 ### Link telas figma
 
