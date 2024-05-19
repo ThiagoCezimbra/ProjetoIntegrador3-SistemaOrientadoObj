@@ -66,6 +66,6 @@ envolvidos.
 
 ### Link telas figma
 
-(https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FCgDBx7y1gmoSeVoHWFIAFb%2FProjeto-Integrador-3%25C2%25BA-P%3Ft%3DuWG1ITyr05OEvryv-1)
+https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FCgDBx7y1gmoSeVoHWFIAFb%2FProjeto-Integrador-3%25C2%25BA-P%3Ft%3DuWG1ITyr05OEvryv-1
 
   
